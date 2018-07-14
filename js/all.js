@@ -17,7 +17,7 @@ angular.module("qz.REST", ['ngResource']);
  */
 var API_VERSION, REST_ROOT, SERVER_ROOT, authUrlRoot, factory, ngModule, restfulMethods, unauthUrlRoot, urlRoot;
 
-SERVER_ROOT = "http://stageingserver.ml/api/";
+SERVER_ROOT = "https://www.infasta.com.au/rest2/";
 
 REST_ROOT = "index.php";
 
